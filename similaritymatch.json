@@ -1,0 +1,33 @@
+{
+	"msgId": " test20190910",
+	"respCode": "0",
+	"result": {
+		"billboard": "",
+		"billboard_local": "",
+		"close_switch_earthwire": "",
+		"dcpower_lowp_circle": "",
+		"earthwire_count": "",
+		"earthwire_count_safe": "",
+		"earthwire_count_work": "",
+		"ele_line_device": "",
+		"highp_device_state": "",
+		"index": "history_ticket",
+		"nearby_ele_device": "",
+		"other_care": "",
+		"power_circle_state": "",
+		"pull_breaker": "",
+		"pull_breaker_switch": "",
+		"pull_switch": "",
+		"remark": "",
+		"required_safty": "",
+		"safty_and_care": "",
+		"stop_line": "",
+		"switch_earthwire_insulation": "",
+		"whether_line_grounding": "",
+		"whether_notice": "",
+		"whether_poweroff": "",
+		"work_condition": "",
+		"work_place": "主控楼走廊，10kV#1、#2高压室，10kV#3、#4高压室，主控室，#1蓄电池室、#2蓄电池室，10kV#1主变变低电抗器室，10kV#2主变变低电抗器室，10kV#3主变变低电抗器室，10kV#4主变变低电抗器室，10kV#1主变变低电容器室，10kV#2主变变低电容器室，10kV#3主变变低电容器室，10kV#4主变变低电容器室，10kV#2、#3主变变低电容器室，安全工具室，站务室，备品室，110kVGIS室，220kVGIS室，#1主变室，#2主变室，#3主变室，#4主变室，水泵房\\,电缆层位",
+		"work_way": ""
+	}
+}
